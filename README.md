@@ -9,6 +9,7 @@ A collection of awesome modern web things.
     * [react-query](https://github.com/tannerlinsley/react-query) Hooks for fetching, caching and updating asynchronous data in React.
     * [material-ui](https://material-ui.com/) - React components for faster and easier web development.
     * [motion](https://www.framer.com/motion/) - Motion is an open source, production-ready library that's designed for all creative developers.
+    * [react-icons](https://react-icons.github.io/) - svg react icons of popular icon packs.
 * [svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces.
 * [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 ## Backend
