@@ -5,7 +5,8 @@ A collection of awesome modern web things.
 * [react](https://reactjs.org/) - A JavaScript library for building user interfaces.
     * [preact](https://preactjs.com/) - Fast 3kB alternative to React with the same modern API.
     * [react-router](https://reacttraining.com/react-router/web/guides/quick-start) - React Router is a collection of navigational components that compose declaratively with your application.
-    * [react-form](https://github.com/tannerlinsley/react-form) Hooks for managing form state and validation in React
+    * [react-form](https://github.com/tannerlinsley/react-form) Hooks for managing form state and validation in React.
+    * [react-hook-form](https://github.com/react-hook-form/react-hook-form) React Hooks for forms validation (Web + React Native).
     * [react-query](https://github.com/tannerlinsley/react-query) Hooks for fetching, caching and updating asynchronous data in React.
     * [material-ui](https://material-ui.com/) - React components for faster and easier web development.
     * [motion](https://www.framer.com/motion/) - Motion is an open source, production-ready library that's designed for all creative developers.
