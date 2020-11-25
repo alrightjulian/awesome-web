@@ -34,6 +34,7 @@ A developer platform for building apps.
 * [landingfolio.com](https://www.landingfolio.com/) - Landingfolio features the best landing page inspiration, templates, resources and examples on the web. Curated by us to ensure the highest quality, updated every day.
 * [behance.net](https://www.behance.net/galleries/xd) - Go from idea to prototype faster with XD, the all-in-one tool for designing websites and mobile apps.
 * [saaslandingpage.com](https://saaslandingpage.com/) - Discover the best 330 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
+* [canva.com](https://www.canva.com/) - Everyone can create professional designs with Canva. It's easy to use and free.
 ### Learning
 * [roadmap.sh](https://roadmap.sh/roadmaps) - Roadmaps for things to learn to become sufficient frontend developer, backend developer, DevOps and so on.
 * [freecodecamp.org](https://www.freecodecamp.org/) - We’re a nonprofit community that helps you learn to code by building projects.
