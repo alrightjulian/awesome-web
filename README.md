@@ -11,6 +11,7 @@ A collection of awesome modern web things.
     * [material-ui](https://material-ui.com/) - React components for faster and easier web development.
     * [motion](https://www.framer.com/motion/) - Motion is an open source, production-ready library that's designed for all creative developers.
     * [react-icons](https://react-icons.github.io/) - svg react icons of popular icon packs.
+    * [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 * [svelte](https://svelte.dev/) - Svelte is a radical new approach to building user interfaces.
 * [vuejs](https://vuejs.org/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 ## Backend
