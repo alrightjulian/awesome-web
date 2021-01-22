@@ -42,6 +42,7 @@ A developer platform for building apps.
 * [aws.training](https://www.aws.training/) - The only set of training programs and offerings built by the experts at AWS.
 * [serverless-stack.com](https://serverless-stack.com/) - Serverless Stack is a completely free resource to help you build full-stack production ready Serverless applications.
 ### AWS
+* [Complete Coding](https://completecoding.io/) 
 * [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 * [What a typical 100% Serverless Architecture looks like in AWS](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
 * [Building serverless applications with Amazon Aurora Serverless](https://aws.amazon.com/getting-started/hands-on/building-serverless-applications-with-amazon-aurora-serverless/)
